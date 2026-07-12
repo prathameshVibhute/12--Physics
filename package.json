@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@types/cannon": "^0.1.13",
     "@types/dat.gui": "^0.7.13",
     "@types/three": "^0.185.0",
     "typescript": "~6.0.2",
